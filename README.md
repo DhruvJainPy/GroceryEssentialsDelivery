@@ -74,7 +74,6 @@ Includes a rich set of queries for:
 | `Normalisation Proof.pdf` | BCNF normalization documentation |
 | `SQL Relational Schema.pdf` | Complete entity schema |
 | `T01_Grocery&EssentialsDelivery.pdf` | Project scope and use case description |
-| `Scraper.ipynb` | Python web scraping notebook |
 
 ---
 
